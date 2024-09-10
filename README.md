@@ -1,3 +1,13 @@
+Awesome Chocolates Sales Analysis Dashboard
+See the full dashboard here https://app.powerbi.com/view?r=eyJrIjoiYjM2ZDZmYzMtMWRjOC00MTA5LWI2ZmYtYzQ2MDc2Y2ViY2U4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+![Power BI Dashboard](Screenshot 2024-09-10 202808.png)
+
+
+
+
+
 Ram K Gupta - Data Analyst Welcome to my GitHub profile! I'm Ram K Gupta, a passionate data analyst with a focus on turning raw data into actionable insights. 
 With a background in MS Excel and Power BI, and ongoing learning in SQL and Python, I'm committed to developing my skills and delivering data-driven solutions.
 
